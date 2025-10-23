@@ -4,3 +4,4 @@
 ## 作業者１
 10秒間音声を録音する処理を行うファイル名を「recording.py」にします。
 「recording.py」を作業ディレクトリ「oop2-2025-04-G09」直下に配置します。
+出力ファイルを「python-audio-output.wav」とします。
